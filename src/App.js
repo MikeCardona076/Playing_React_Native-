@@ -24,3 +24,18 @@ function App() {
 }
 
 export default App;
+
+// import React, { Component } from 'react';
+// De esta forma es una clase
+// class App extends Component {
+//   render() {
+//     return (
+//       <div>
+//         <h1>Hola Mundo!</h1>
+//         <p>Bienvenidos a los primeros pasos con React</p>
+//       </div>
+//     );
+//   }
+// }
+
+// export default App;
